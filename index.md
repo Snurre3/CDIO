@@ -9,3 +9,7 @@ Collaborative software engineer
 ## My skills
 
 * Git and Github
+
+## Friend input
+
+* Jag tycker du borde lägga till den här raden.
