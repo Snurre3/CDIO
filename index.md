@@ -1,8 +1,11 @@
-#Test Testson
+# Test Testson
 
 Collaborative software engineer
 
-##My projects
+## My projects
 
-##My skills
+* Collaborative Software Project in Computational Physics
 
+## My skills
+
+* Git and Github
